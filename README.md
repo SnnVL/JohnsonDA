@@ -2,15 +2,19 @@
 
 Python code accompanying the reference:
 
-**Senne Van Loon and Steven J. Fletcher (2023). Foundations for Universal Non-Gaussian Data Assimilation, Geophysical Research Letters (accepted article)**
+**Senne Van Loon and Steven J. Fletcher (2023). Foundations for Universal Non-Gaussian Data Sssimilation. Geophysical Research Letters, 50, e2023GL105148. https://doi.org/10.1029/2023GL105148**
 
 Please cite this work if you use this code.
 ```
 @article{JohnsonVAR,
-    title={{Foundations for Universal Non-Gaussian Data Assimilation}},
-    author={Van Loon, Senne and Fletcher, Steven J.},
-    journal={Geophysical Research Letters (accepted)},
-    year={2023},
+    author = {Van Loon, Senne and Fletcher, Steven J.},
+    title = {{Foundations for Universal Non-Gaussian Data Assimilation}},
+    journal = {Geophysical Research Letters},
+    volume = {50},
+    number = {23},
+    pages = {e2023GL105148},
+    doi = {https://doi.org/10.1029/2023GL105148},
+    year = {2023}
 }
 ```
 
